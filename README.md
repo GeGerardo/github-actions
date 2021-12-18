@@ -1,4 +1,4 @@
-# Job Application - XENETA
+# Test github actions
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Project created for a QA job application at Xeneta.
+Testing github actions
 
 **The functional checks are written in the xls file**
 
